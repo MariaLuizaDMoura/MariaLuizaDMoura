@@ -1,6 +1,6 @@
 ### Olá Jovem, eu sou a Maria Luiza 👋
 
-- 🌱 Estudando Java 
+- 🌱 Estudando HTML/CSS 
 - 😄 Pronouns: Ela/Ella/She
 <div align="center">
   <a href="https://github.com/MariaLuizaDMoura">
@@ -9,10 +9,9 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Malu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Malu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Malu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Malu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
+  <img align="center" alt="Malu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
 ##
