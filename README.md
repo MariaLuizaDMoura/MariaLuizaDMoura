@@ -1,17 +1,4 @@
 ### Olá Jovem, eu sou a Maria Luiza 👋
-<table>
-      <h4>Language/Idioma</h4>
-  <tr>
-    <td>
-      <a href="README.md">🇺🇸 English | Inglês</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="readme_pt-br.md">🇧🇷 Portuguese | Português</a>
-    </td>
-  </tr>
-</table>
 
 - 🌱 Estudando HTML/CSS 
 - 😄 Pronouns: Ela/Ella/She
