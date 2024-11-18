@@ -1,6 +1,6 @@
 ### Olá Jovem, eu sou a Maria Luiza 👋
 
-- 🌱 Estudando HTML/CSS 
+- 🌱 Estudando Java/Cloud
 - 😄 Pronouns: Ela/Ella/She
 <div align="center">
   <a href="https://github.com/MariaLuizaDMoura">
